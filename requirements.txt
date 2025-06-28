@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yfinance
+prophet
+pandas
+python-multipart
+aiofiles
+httpx
+scikit-learn
